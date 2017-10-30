@@ -1,0 +1,13 @@
+input {
+  display: block;
+}
+button {
+  margin: 10px;
+}
+.header, h3 {
+  display: inline-block;
+
+}
+a {
+  margin-left: 200px;
+}
